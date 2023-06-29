@@ -5,7 +5,7 @@
        source-image="https://upload.wikimedia.org/wikipedia/commons/b/bf/Timber_between_Larch_Mountain_and_Mount_Hood_%284587520152%29.jpg"
        banner="https://upload.wikimedia.org/wikipedia/commons/b/bf/Timber_between_Larch_Mountain_and_Mount_Hood_%284587520152%29.jpg"
        author="Hannah Hardenbergh"
-       layout="vertical">
+       layout="horizontal">
 
 test
 <param ve-image label="*Hamatsa Emerging From The Woods*, 1914. Photo by E.S. Curtis." description="Photograph" license="public domain" url="https://upload.wikimedia.org/wikipedia/commons/5/52/Hamatsa_shaman.jpg" region="468,765,612,418">
