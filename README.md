@@ -12,7 +12,7 @@
 <param ve-image label="'Hamatsa Emerging From The Woods', 1914. Photo by E.S. Curtis." description="Photograph" license="public domain" url="https://upload.wikimedia.org/wikipedia/commons/5/52/Hamatsa_shaman.jpg">
 <param ve-entity eid="Q155" title="Brazil">
 <param ve-entity eid="Q267376" title="World Tree">
-<param ve-entity eid="Q210377" title="*gauchos*">
+<param ve-entity eid="Q210377" title="gauchos">
 <param ve-entity eid="Q46429" title=“Guaraní people”>
 <param ve-entity eid="Q84263196" title=“COVID-19 pandemic”>
 
