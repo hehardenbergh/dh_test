@@ -2,6 +2,7 @@
 
 <param ve-config 
        title="Yerba Mate: From Sacred Drink to Caffeinated Star"
+       source-image="https://commons.wikimedia.org/wiki/File:Timber_between_Larch_Mountain_and_Mount_Hood_(4587520152).jpg"
        banner="https://commons.wikimedia.org/wiki/File:Timber_between_Larch_Mountain_and_Mount_Hood_(4587520152).jpg"
        author="Hannah Hardenbergh"
        layout="vertical">
