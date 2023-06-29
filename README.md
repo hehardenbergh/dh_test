@@ -8,7 +8,7 @@
        layout="vertical">
 
 test
-<param ve-image label="*Hamatsa Emerging From The Woods*, 1914. Photo by E.S. Curtis." description="Photograph" license="public domain" url="https://upload.wikimedia.org/wikipedia/commons/5/52/Hamatsa_shaman.jpg" region="468,765,612,418">
+<param ve-image label="*Hamatsa Emerging From The Woods*, 1914. Photo by E.S. Curtis." description="Photograph" license="public domain" url="https://i.pinimg.com/originals/cc/38/87/cc3887546e37eab5979e7b91f839f62f.jpg">
 
 #test 
 ##test
