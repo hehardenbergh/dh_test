@@ -2,6 +2,8 @@
 
 <param ve-config 
        title="Yerba Mate: From Sacred Drink to Caffeinated Star"
+       source-image="https://www.jstor.org/stable/community.23052527"
+       banner="https://www.jstor.org/stable/community.23052527"
        author="Hannah Hardenbergh"
        layout="vertical">
 
