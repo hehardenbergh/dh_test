@@ -23,8 +23,12 @@ highlighting some words will take you to a part of the corresponding image when 
 After written code, the rest of the text will follow continuously. 
 
 ####videos
+code ID from youtube videos will fill the parameter "vid".
 <param ve-video 
        vid="aSprX-NIr14" >
+
+###Jstor Global Plant Specimens
+to use a specimen image from JSTOR only. Access Jstor Global Plants through Hollis Databases or another means of access. search for plant, and once selected, the parameter "jpid" will be filled by the part of the URL of the JSTOR plant specimen webpage after the word "stable/" and before "?search".
 <param ve-plant-specimen 
        jpid="10.5555/al.ap.specimen.us00012058">
 
