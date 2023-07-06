@@ -11,16 +11,7 @@
 this is a test for how to write a visual essay. 
 
 ##### Images
-it is recommended do download all images and place the file title into the URL parameter. 
-
-though it's not working right now, you can click on the photo editor and shift-click and drag to a specific area in the image and provide a caption for the specified area of the image. 
-
-the following code is how to include images from a URL. take URLs from wikimedia commons.
-<param ve-image 
-       label="*Hamatsa Emerging From The Woods*, 1914. Photo by E.S. Curtis." 
-       description="Photograph" 
-       license="public domain" 
-       url="https://i.pinimg.com/originals/cc/38/87/cc3887546e37eab5979e7b91f839f62f.jpg">
+add all code for images directly after a paragraph. it is recommended to download all images and place the file title into the URL parameter. though it's not working right now, you can click on the photo editor and shift-click and drag to a specific area in the image and provide a caption for the specified area of the image. 
 
 Linking the text to an image: 
 highlighting some words will take you to a part of the corresponding image when you move cursor to that word. place words in code: 
@@ -28,7 +19,15 @@ highlighting some words will take you to a part of the corresponding image when 
        Show me the eagle. 
        </span>
 After written code, the rest of the text will follow continuously. 
-       
+
+the following code is how to include images from a URL. take URLs from wikimedia commons.
+<param ve-image 
+       label="*Shaman drum." 
+       description="Photograph" 
+       license="public domain" 
+       url="https://i.pinimg.com/originals/cc/38/87/cc3887546e37eab5979e7b91f839f62f.jpg">
+
+New paragraph, new image.
 <param ve-image 
        label="*Hamatsa Emerging From The Woods*, 1914. Photo by E.S. Curtis." 
        description="Photograph" 
