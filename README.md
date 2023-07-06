@@ -14,15 +14,10 @@ test
        license="public domain" 
        url="https://i.pinimg.com/originals/cc/38/87/cc3887546e37eab5979e7b91f839f62f.jpg">
 
-#test 
-##test
-##test
-####test
-
 ### Introduction
 this is a test for how to write a visual essay. 
 
-##Images
+####Images
 it is recommended do download all images and place the file title into the URL parameter. 
 
 though it's not working right now, you can click on the photo editor and shift-click and drag to a specific area in the image and provide a caption for the specified area of the image. 
