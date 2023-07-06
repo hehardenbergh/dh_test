@@ -32,7 +32,7 @@ to use a specimen image from JSTOR only. Access Jstor Global Plants through Holl
 <param ve-plant-specimen 
        jpid="10.5555/al.ap.specimen.us00012058">
 
-##### archive.org books
+##### Online Book Viewer
 Nav to archive.org. search in the lower search bar for a book by topic. open it full-screen. then copy the URL and paste into the parameter "src".
 <param ve-iframe 
        src="https://archive.org/details/Galaxy_v18n06_1960-08/page/n3/mode/2up?view=theater">
