@@ -24,7 +24,7 @@ test
        label="James Ward Sketch of Larch Tree, 1859" 
        description="Photograph" 
        license="public domain"
-       url="https://upload.wikimedia.org/wikipedia/commons/d/dd/James_Ward_-_Larch_Tree_-_Google_Art_Project.jpg">
+       url="16-07-06-Rathaus_Graz_Turmblick-RR2_0275.jpg">
 
 <param ve-entity eid="Q155" title="Brazil">
 <param ve-entity eid="Q267376" title="World Tree">
