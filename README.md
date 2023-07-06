@@ -15,19 +15,19 @@ it is recommended do download all images and place the file title into the URL p
 
 though it's not working right now, you can click on the photo editor and shift-click and drag to a specific area in the image and provide a caption for the specified area of the image. 
 
-Linking the text to an image: 
-highlighting some words will take you to a part of the corresponding image when you move cursor to that word. place words in code: 
-<span data-mouseover-image-zoomto="231,194,163,93">
-       Show me the eagle. 
-       </span>
-After written code, the rest of the text will follow continuously. 
-
 the following code is how to include images from a URL. take URLs from wikimedia commons.
 <param ve-image 
        label="*Hamatsa Emerging From The Woods*, 1914. Photo by E.S. Curtis." 
        description="Photograph" 
        license="public domain" 
        url="https://i.pinimg.com/originals/cc/38/87/cc3887546e37eab5979e7b91f839f62f.jpg">
+
+Linking the text to an image: 
+highlighting some words will take you to a part of the corresponding image when you move cursor to that word. place words in code: 
+<span data-mouseover-image-zoomto="231,194,163,93">
+       Show me the eagle. 
+       </span>
+After written code, the rest of the text will follow continuously. 
        
 <param ve-image 
        label="*Hamatsa Emerging From The Woods*, 1914. Photo by E.S. Curtis." 
