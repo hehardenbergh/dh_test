@@ -20,7 +20,10 @@ test
 
 <param ve-image label="*Hamatsa Emerging From The Woods*, 1914. Photo by E.S. Curtis." description="Photograph" license="public domain" url="https://upload.wikimedia.org/wikipedia/commons/5/52/Hamatsa_shaman.jpg" region="468,765,612,418">
 
-<param ve-image label="James Ward Sketch of Larch Tree, 1859" description="Photograph" license="public domain"
+<param ve-image 
+       label="James Ward Sketch of Larch Tree, 1859" 
+       description="Photograph" 
+       license="public domain"
        url="https://upload.wikimedia.org/wikipedia/commons/d/dd/James_Ward_-_Larch_Tree_-_Google_Art_Project.jpg">
 
 <param ve-entity eid="Q155" title="Brazil">
