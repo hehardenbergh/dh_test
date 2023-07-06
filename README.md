@@ -18,9 +18,7 @@ highlighting some words will take you to a part of the corresponding image when 
 <span data-mouseover-image-zoomto="147,105,340,232">
        Show me the eagle. 
        </span>
-After written code, the rest of the text will follow continuously. 
-
-the following code is how to include images from a URL. take URLs from wikimedia commons.
+After written code, the rest of the text will follow continuously. the following code is how to include images from a URL. take URLs from wikimedia commons.
 <param ve-image 
        label="*Shaman drum." 
        description="Photograph" 
