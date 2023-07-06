@@ -24,7 +24,7 @@ the following code is how to include images from a URL. take URLs from wikimedia
 
 Linking the text to an image: 
 highlighting some words will take you to a part of the corresponding image when you move cursor to that word. place words in code: 
-<span data-mouseover-image-zoomto="231,194,163,93">
+<span data-mouseover-image-zoomto="147,105,340,232">
        Show me the eagle. 
        </span>
 After written code, the rest of the text will follow continuously. 
