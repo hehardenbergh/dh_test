@@ -10,7 +10,7 @@
 ### Introduction
 this is a test for how to write a visual essay. 
 
-####Images
+##### Images
 it is recommended do download all images and place the file title into the URL parameter. 
 
 though it's not working right now, you can click on the photo editor and shift-click and drag to a specific area in the image and provide a caption for the specified area of the image. 
@@ -22,12 +22,12 @@ highlighting some words will take you to a part of the corresponding image when 
        </span>
 After written code, the rest of the text will follow continuously. 
 
-####videos
+##### videos
 code ID from youtube videos will fill the parameter "vid".
 <param ve-video 
        vid="aSprX-NIr14" >
 
-#####Jstor Global Plant Specimens
+##### Jstor Global Plant Specimens
 to use a specimen image from JSTOR only. Access Jstor Global Plants through Hollis Databases or another means of access. search for plant, and once selected, the parameter "jpid" will be filled by the part of the URL of the JSTOR plant specimen webpage after the word "stable/" and before "?search".
 <param ve-plant-specimen 
        jpid="10.5555/al.ap.specimen.us00012058">
