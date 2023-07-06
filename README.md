@@ -32,6 +32,10 @@ to use a specimen image from JSTOR only. Access Jstor Global Plants through Holl
 <param ve-plant-specimen 
        jpid="10.5555/al.ap.specimen.us00012058">
 
+##### archive.org books
+Nav to archive.org. search in the lower search bar for a book by topic. open it full-screen. then copy the URL and paste into the parameter "src".
+<param ve-iframe 
+       src="https://archive.org/details/Galaxy_v18n06_1960-08/page/n3/mode/2up?view=theater">
        
 [_Ilexparaguariensis_](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:315555-2) is an evergreen shrub or tree native to the subtropical forests of Brazil, Paraguay, Uruguay, and Argentina that can grow up to forty-nine feet tall. It’s a plant species of the genus ilex (or “holly”) that contains caffeine as well as other alkaloid components, and it has stimulant, diuretic, antioxidant, and antimicrobial properties that made it attractive to both the indigenous Guaraní people and to Spanish colonial settlers. After being dried, roasted, and powdered, mate leaves are used to prepare a hot or cold beverage, also known as mate or Paraguayan Tea. World Tree. The loose powder is typically steeped in hot water and strained through a metallic straw, or bombilla, shared by many people, passing from mouth to mouth. During the 19th century, the drink became associated with South American *gauchos*. gauchos . The same mate and bombilla are shared in social gatherings, a habit that has endured despite recent public health campaigns to prevent COVID-19 pandemic.
 
