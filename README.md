@@ -23,7 +23,7 @@ After written code, the rest of the text will follow continuously. You will need
        label="*Shaman drum." 
        description="Photograph" 
        license="public domain" 
-       url="https://i.pinimg.com/originals/cc/38/87/cc3887546e37eab5979e7b91f839f62f.jpg">
+       url="https://upload.wikimedia.org/wikipedia/commons/7/78/Weeping_larch.jpg">
 
 New paragraph, new image.
 <param ve-image 
@@ -47,7 +47,7 @@ code ID from youtube videos will fill the parameter "vid".
 ##### Jstor Global Plant Specimens
 to use a specimen image from JSTOR only. (if you want to use the Harv Herbarium specimens, download the image and upload it using the param=ve-image format. Access Jstor Global Plants through Hollis Databases or another means of access. search for plant, and once selected, the parameter "jpid" will be filled by the part of the URL of the JSTOR plant specimen webpage after the word "stable/" and before "?search".
 <param ve-plant-specimen 
-       jpid="10.5555/al.ap.specimen.us00012058">
+       jpid="10.5555/al.ap.specimen.p00662193">
 
 ##### Online Book Viewer
 Nav to archive.org. search in the lower search bar for a book by topic. open it full-screen. then copy the URL and paste into the parameter "src".
