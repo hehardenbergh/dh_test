@@ -80,7 +80,7 @@ to add *only* zoomed-in portions of an image, include image as usual in code bel
        >
 
 #### Maps
-the following is instructions on how to add a map.
+the following is instructions on how to add a map. the base map includes a title, coordinates from google maps, and a zoom attribution. to add layers: nav to geojson.io, an open-source mapping tool that creates maps in json format. you can draw segments, add pin drops, and create area regions in geojson. 
 <param ve-map
        title="Larches Native to Siberia"
        center="53.524605, 107.963269"
