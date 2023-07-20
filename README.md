@@ -82,7 +82,7 @@ to add *only* zoomed-in portions of an image, include image as usual in code bel
 #### Maps
 the following is instructions on how to add a map.
 <param ve-map
-       title="Larches Native to Siberia"
+       title=Larches Native to Siberia
        center="53.524605, 107.963269"
        zoom=6
        >
