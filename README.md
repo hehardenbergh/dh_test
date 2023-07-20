@@ -74,9 +74,9 @@ Nav to archive.org. search in the lower search bar for a book by topic. open it 
        eid="Q84263196" 
        title=“COVID-19 pandemic”>
 
-#### Image with paragraph
+#### Annotate images with zoom-in slideshow
 
-to add zoom-in's in an image, include image as usual in code below text. open visual essay and select the jstor edit button on image, bottom of menu options on the right side. ctrl+shift+click and drag to select the zoom parameters. type an annotation.
+to add zoom-in's in an image, include image as usual in code below text. open visual essay and select the jstor edit button on image, bottom of menu options on the right side. ctrl+shift+click and drag to select the zoom parameters. type an annotation. click ok. add as many as you like. then select 'play annotations' in menu bar to view all.
 <param ve-image 
        label="James Ward Sketch of Larch Tree, 1859" 
        description="Photograph" 
