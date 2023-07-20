@@ -1,0 +1,22 @@
+[
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "cute clocktower",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://4x4rr42s5yd4hr7mdrjqp3euqm0hnpoe.lambda-url.us-east-1.on.aws/iiif/2/7a55d4f34d208f7a7e58fd321f3a63a8a0eb8489a32d8c3d4b6040b7329c90ea",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1470.559814453125,175.96336364746094,1147.0205078125,1186.1234283447266"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#7fe48b8a-a8ce-4d25-9828-d5a58aaea5b1"
+  }
+]
