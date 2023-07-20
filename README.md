@@ -76,8 +76,7 @@ Nav to archive.org. search in the lower search bar for a book by topic. open it 
 
 #### Image with paragraph
 
-insert paragraph of the sketch of larch tree and how fab it is here. lalalalla
-
+to add zoom-in's in an image, include image as usual in code below text. open visual essay and select the jstor edit button on image, bottom of menu options on the right side. ctrl+shift+click and drag to select the zoom parameters. type an annotation.
 <param ve-image 
        label="James Ward Sketch of Larch Tree, 1859" 
        description="Photograph" 
