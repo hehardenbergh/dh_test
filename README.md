@@ -97,5 +97,8 @@ if you want to zoom to an entire country, source a geojson file from google (som
        geojson 
        url="https://raw.githubusercontent.com/hehardenbergh/dh_test/main/Sargent-in-Siberia.json"
        >
+<param ve-map-layer
+       geojson
+       url="https://raw.githubusercontent.com/hehardenbergh/dh_test/main/lakebaikal.json">
 
 
