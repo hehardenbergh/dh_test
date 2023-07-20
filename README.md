@@ -78,5 +78,7 @@ to add *only* zoomed-in portions of an image, include image as usual in code bel
        license="public domain"
        url="16-07-06-Rathaus_Graz_Turmblick-RR2_0275.jpg">
 
+#### Maps
 
+<param ve-map>
 
