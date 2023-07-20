@@ -86,6 +86,7 @@ linking text to a part of the map:
        14>
        Lake Baikal. 
        </span>
+if you want to zoom to an entire country, source a geojson file from google (someone's github repo, a university, a github database like natural-earth-geojson).
        
 <param ve-map
        title="Larches Native to Siberia"
