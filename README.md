@@ -98,9 +98,9 @@ linking text to a part of the map:
        
 if you want to zoom to an entire country, source a geojson file from google (someone's github repo, a university, a github database like github.com/martynafford/natural-earth-geojson). for this example, we'll use Marty's repository. select a .json file, then select "view raw". ctrl+f to search for your country/municipality (depending on which file you're in). click and drag to select the code starting with [type........]. place code into a new file in your repository. 
 <param ve-map
-       title="Larches Native to Siberia"
+       title="Trans-Siberian Railroad"
        center="53.524605, 107.963269"
-       zoom="2"
+       zoom="5"
        >
 <param ve-map-layer
        geojson
