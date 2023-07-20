@@ -104,6 +104,7 @@ if you want to zoom to an entire country, source a geojson file from google (som
        >
 <param ve-map-layer
        geojson
-       url="https://raw.githubusercontent.com/hehardenbergh/dh_test/main/lakebaikal.json">
+       url="https://gist.githubusercontent.com/HeikkiVesanto/dc867a87e81f02ce31a8/raw/f2d9194fe55cfc6111f9e5f9974e90f53326d9d7/TransSiberianSimplified.geojson"
+       >
 
 
