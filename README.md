@@ -84,7 +84,7 @@ the following is instructions on how to add a map. the base map includes a title
 <param ve-map
        title="Larches Native to Siberia"
        center="53.524605, 107.963269"
-       zoom="6"
+       zoom="2"
        >
 <param ve-map-layer 
        geojson 
