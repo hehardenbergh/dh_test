@@ -86,4 +86,5 @@ the following is instructions on how to add a map. the base map includes a title
        center="53.524605, 107.963269"
        zoom="6"
        >
+<param ve-map-layer geojson url=
 
