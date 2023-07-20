@@ -100,7 +100,7 @@ if you want to zoom to an entire country, source a geojson file from google (som
 <param ve-map
        title="Trans-Siberian Railroad"
        center="53.524605, 107.963269"
-       zoom="5"
+       zoom="3"
        >
 <param ve-map-layer
        geojson
