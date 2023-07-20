@@ -12,6 +12,11 @@ this is a test for how to write a visual essay.
 
 ##### Images
 add all code for images directly after a paragraph. it is recommended to download all images and place the file title into the URL parameter. though it's not working right now, you can click on the photo editor and shift-click and drag to a specific area in the image and provide a caption for the specified area of the image. 
+<param ve-image
+       label="first image"
+       description="Photograph"
+       license="public domain"
+       url="https://upload.wikimedia.org/wikipedia/commons/b/bf/Vihorlat_%28v_zime%29_046.jpg">
 
 Linking the text to an image: 
 highlighting some words will take you to a part of the corresponding image when you move cursor to that word. place words in code: 
