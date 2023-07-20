@@ -6,6 +6,11 @@
         "type": "TextualBody",
         "value": "cute clocktower",
         "purpose": "commenting"
+      },
+      {
+        "type": "TextualBody",
+        "value": "replies go here",
+        "purpose": "commenting"
       }
     ],
     "target": {
