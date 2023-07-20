@@ -74,5 +74,12 @@ Nav to archive.org. search in the lower search bar for a book by topic. open it 
        eid="Q84263196" 
        title=“COVID-19 pandemic”>
 
+### Image 
+<param ve-image 
+       label="James Ward Sketch of Larch Tree, 1859" 
+       description="Photograph" 
+       license="public domain"
+       url="16-07-06-Rathaus_Graz_Turmblick-RR2_0275.jpg">
+
 
 
