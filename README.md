@@ -90,4 +90,9 @@ the following is instructions on how to add a map. the base map includes a title
        geojson 
        url="https://raw.githubusercontent.com/hehardenbergh/dh_test/main/Sargent-in-Siberia.json"
        >
+linking text to a part of the map:
+<span data-mouseover-map-flyto="53.524605, 107.963269",
+       14>
+       Lake Baikal. 
+       </span>
 
