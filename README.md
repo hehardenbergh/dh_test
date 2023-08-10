@@ -57,7 +57,7 @@ to use a specimen image from JSTOR only. (if you want to use the Harv Herbarium 
 ##### Online Book Viewer
 Nav to archive.org. search in the lower search bar for a book by topic. open it full-screen. then copy the URL and paste into the parameter "src".
 <param ve-iframe 
-       src="https://archive.org/details/Galaxy_v18n06_1960-08/page/n3/mode/2up?view=theater">
+       src="https://archive.org/details/northamericansyl03mich/page/n5/mode/2up?view=theater">
 
 <param ve-entity 
        eid="Q155" 
